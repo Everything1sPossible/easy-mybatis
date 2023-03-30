@@ -1,0 +1,5 @@
+rootProject.name = 'easy-mybatis'
+include 'easy-mybatis-annotation'
+include 'easy-mybatis-core'
+include 'easy-mybatis-boot-starter'
+
